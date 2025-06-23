@@ -21,7 +21,7 @@ Learn how to clean and prepare raw data for ML.
 
 ---
 
-## My Approach and Methodology
+## What I did
 
 I began by exploring the dataset using basic pandas commands like df.head(), df.info(), and df.describe(), which helped me understand the structure and detect missing values.
 
